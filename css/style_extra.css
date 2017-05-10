@@ -1,0 +1,13 @@
+*{
+	box-sizing: border-box;
+}
+
+.extra{
+	width: 100px;
+	background-color: rgba(0,0,0,0.6); 
+	float:right;
+	margin: 20px;
+}
+.extra div img{
+	width: 100%;
+}
