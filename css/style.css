@@ -12,12 +12,12 @@ body{
 
 }
 
-.character{							
-	padding: 10px;
-  width: 100px;
-  height: 100px;
-  margin: 65px;
-  position: relative;
+.character {
+    padding: 10px;
+    width: 100px;
+    height: 100px;
+    margin: 65px;
+    position: relative;
 }
 
 .character div{
@@ -60,18 +60,6 @@ body{
 	position: absolute;
 	bottom: 0;
 	right: 6px;
-}
-
-.extra{
-  width: 56px;
-  min-width: 56px;
-  background-color: rgba(0,0,0,0.6);
-  float: right;
-  margin-right: 67px
-}
-
-.extra img{
-	width: 100%;
 }
 
 @keyframes move{
